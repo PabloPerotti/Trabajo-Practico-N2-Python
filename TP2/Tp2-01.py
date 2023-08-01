@@ -1,0 +1,1 @@
+print("Python es un lenguaje de programacion de codigo abierto")
